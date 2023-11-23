@@ -1,0 +1,70 @@
+Hello World
+update
+    1  exit
+    2  exit
+    3  ls
+    4  mkdir test_app
+    5  pwd
+    6  cd datasets
+    7  cd datasets
+    8  clear
+    9  pwd
+   10  ls
+   11  is
+   12  l
+   13  ls
+   14  clear
+   15* cd C:\Users\M\Desktot
+   16  cd C:/Users/M/Desktop
+   17  cd datasets
+   18  cd datasets
+   19  cd ..
+   20  clear
+   21  pwd
+   22  cd C:/Users/M/Desktop
+   23  ls
+   24  cd C:/Users/M/Desktop/test_app
+   25  mkdir f1
+   26  mkdir f2 f3 f4 f5
+   27  rmdir f5
+   28  rmdir f1 f2 f3 f4
+   29  ls
+   30  mkdir f1
+   31  ls
+   32  rm -r f1
+   33  kdir f1
+   34  mkdir f1
+   35  cd ..
+   36  ls
+   37  cd test_app
+   38  cd ..
+   39  ls
+   40  cd test_app
+   41  ls
+   42  cd f1
+   43  ls
+   44  ls
+   45  cd New Test Document.txt
+   46  cd ..
+   47  rm -r f1
+   48  mkdir f1
+   49  ls
+   50  cd f1
+   51  rmdir f1
+   52  cd ..
+   53  rmdir f1
+   54  rm -r f1
+   55  clear
+   56  touch f1.txt
+   57  touch f2.sql f3.py f4.txt
+   58  ls
+   59  rm -r f4.txt
+   60  cat f4.txt
+   61  nano f4.txt 
+   62  nano f4.txt 
+   63  nano f4.txt 
+   64  nano f3.py
+   65  cat f3.py
+   66  ls
+   67  history f4.txt
+   68  history >>f4.txt
